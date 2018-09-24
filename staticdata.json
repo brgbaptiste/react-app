@@ -1,0 +1,52 @@
+{
+    "cells" : [
+        {
+            "title": "Intro to React",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "Adaptive Layout with CSS Grid",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "SVG Animation",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "Components and Props",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "Styled Components",
+            "image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+        },
+        {
+            "title": "Static Data with JSON",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "GraphQL with Contentful",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "Publish to Netlify",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        },
+        {
+            "title": "Paymentwith Stripe Checkout",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
+        }
+    ]
+}
